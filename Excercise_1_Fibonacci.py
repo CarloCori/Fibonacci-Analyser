@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  8 8:16:55 2020
-
-@author: Carlo
-"""
-
 def fibonacci_number(n):
     """This function calculates the "n" number of the fibonacci series
         Args:
