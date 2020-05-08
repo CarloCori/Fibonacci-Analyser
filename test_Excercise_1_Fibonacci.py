@@ -3,10 +3,10 @@ from Excercise_1_Fibonacci import fibonacci_series_to
 from Excercise_1_Fibonacci import fibonacci_series_from_to
 
 def test_fibonacci_number():
-    fibonacci_number(6) == 5
+    assert fibonacci_number(6) == 5
    
 def test_fibonacci_series_to():
-    fibonacci_series_to(3) == [0, 1, 1]
+    assert fibonacci_series_to(3) == [0, 1, 1]
 
 def test_fibonacci_series_from_to():
-    fibonacci_series_from_to(2, 4) == [1, 1, 2]
+    assert fibonacci_series_from_to(2, 4) == [1, 1, 2]
