@@ -3,4 +3,4 @@ python:
    - "3.6"
 
 script:
-   - test_Excercise_1_Fibonacci
+   - pytest
