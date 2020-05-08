@@ -30,7 +30,8 @@ def fibonacci_series_to(n):
     return l[:n]
 
 def fibonacci_series_from_to(m, n):
-    """This function calculates the fibonacci series until the "n"th element
+    """This function calculates the fibonacci series from the "m"th 
+        element until the "n"th element
         Args:
             m (int): The first element of the fibonacci series required
             n (int): The last element of the fibonacci series required
