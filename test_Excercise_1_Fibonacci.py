@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  8 8:16:55 2020
-
-@author: Carlo
-"""
-
 from test_Excercise_1_Fibonacci_1 import fibonacci_number
 from test_Excercise_1_Fibonacci_1 import fibonacci_series_to
 from test_Excercise_1_Fibonacci_1 import fibonacci_series_from_to
