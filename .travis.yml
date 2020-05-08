@@ -1,5 +1,6 @@
 language: python
 python:
    - "3.6"
- script:
+
+script:
    - test_Excercise_1_Fibonacci
