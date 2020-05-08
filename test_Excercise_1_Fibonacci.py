@@ -1,6 +1,6 @@
-from test_Excercise_1_Fibonacci_1 import fibonacci_number
-from test_Excercise_1_Fibonacci_1 import fibonacci_series_to
-from test_Excercise_1_Fibonacci_1 import fibonacci_series_from_to
+from test_Excercise_1_Fibonacci import fibonacci_number
+from test_Excercise_1_Fibonacci import fibonacci_series_to
+from test_Excercise_1_Fibonacci import fibonacci_series_from_to
 
 def test_fibonacci_number(n):
     fibonacci_number(6) == 5
