@@ -2,4 +2,4 @@ language: python
 python:
  - "3.5"
  script:
- - test_Excercise_1_Fibonacci.py
+ - test_Excercise_1_Fibonacci
